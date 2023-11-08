@@ -1,0 +1,6 @@
+class hm{
+    public static void main(String args []);
+    for(int a=6; b=2;){
+        System.out.println("a isbgreater than b");
+    }
+}
